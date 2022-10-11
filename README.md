@@ -1,5 +1,10 @@
 # TASKINATOR
 
+## Screenshots
+
+Home Page
+![image](https://user-images.githubusercontent.com/96402809/195170832-e409befd-3cdf-4f24-8546-9bd1bbbf8019.png)
+
 
 ## DESCRIPTION
 This app is a task management app designed to help the user organize and manage their tasks easily.
@@ -28,12 +33,6 @@ User can also edit and delete tasks.
 
 ## Technologies
 HTML, CSS, JavaScript
-
-
-## Screenshots
-
-Home Page
-![image]()
 
 ## Contributors
 Aniyah Butler
